@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://setstud.github.io/snippets-t58je2/sitemap.xml
